@@ -1,0 +1,15 @@
+mouse appears 0
+mouse runs_away 1
+mouse appears 0
+mouse enters_trap 4
+mouse escapes 3
+mouse appears 0
+mouse enters_trap 2
+mouse trapped 4
+mouse removed 5
+mouse appears 0
+mouse runs_away 1
+mouse appears 0
+mouse enters_trap 2
+mouse trapped 4
+mouse removed 5
